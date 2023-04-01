@@ -1,0 +1,31 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    box-shadow: 1px 1px 10px #eee;
+}
+
+.navbar .logo {
+    width: 50%;
+}
+
+.logo h1 {
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    background-color: dodgerblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.navbar .nav-links {
+    width: 50%;
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+a{
+    text-decoration: none;
+}

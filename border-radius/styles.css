@@ -1,0 +1,24 @@
+.box{
+    border: 2px solid rgb(0, 0, 0);
+    width: 20%;
+    margin: auto;
+    padding: 20px 30px;
+    /* Border radius */
+    /* all corners */
+    /*border-radius: 100px; */
+    border-radius: 0px 80px 80px 0px; 
+}
+
+
+.circle{
+    margin: auto;
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
+
+.user-profile{
+    width: 500px;
+    height: 500px;
+    border-radius: 50%;
+}
